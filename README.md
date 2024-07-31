@@ -14,8 +14,10 @@ Cisco Packet Tracer installed on your computer.
 Setup Instructions
 Clone the Repository:
 
-git clone https://github.com/yourusername/network-configuration-packet-tracer.git
+```
+git clone https://github.com/mridiot0/Subnetting-with-ACL
 cd network-configuration-packet-tracer
+```
 Open the Project in Cisco Packet Tracer:
 
 Launch Cisco Packet Tracer.
