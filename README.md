@@ -17,7 +17,7 @@ Cisco Packet Tracer installed on your computer.
 
 ```
 git clone https://github.com/mridiot0/Subnetting-with-ACL
-cd network-configuration-packet-tracer
+cd Subnetting-with-ACL
 ```
 **Open the Project in Cisco Packet Tracer:**
 
